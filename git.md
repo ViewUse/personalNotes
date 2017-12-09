@@ -24,3 +24,8 @@
     git push -u origin master //向github推送数据
     git pull origin master //从github拉数据下来
 ```
+
+## git 命令
+```shell
+    git config -l //查看git global配置信息
+```
